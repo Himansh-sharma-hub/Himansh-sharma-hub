@@ -1,16 +1,36 @@
-## Hi there 👋
+# 🌸 Hey there, I’m glad you’re here!
 
-<!--
-**Himansh-sharma-hub/Himansh-sharma-hub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+I’m passionate about:
+- 🚀 Learning new tech skills
+- 📊 Data Analytics & Visualization
+- 🎨 Creative work (3D / Design)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack:
+![Python](https://img.shields.io/badge/python-blue)
+![SQL](https://img.shields.io/badge/sql-orange)
+![Power BI](https://img.shields.io/badge/powerbi-yellow)
+![Pandas](https://img.shields.io/badge/pandas-black)
+![NumPy](https://img.shields.io/badge/numpy-blue)
+
+---
+
+## 📌 What I Do:
+- 📊 Data Analysis Projects
+- 📈 Dashboards (Power BI / Excel)
+- 🎨 3D Art & Design
+
+---
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-pink)](your-link)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue)](your-link)
+[![YouTube](https://img.shields.io/badge/YouTube-red)](your-link)
+
+---
+
+## ⚡ Fun Line:
+You bring the snacks 🍪, I’ll bring the code 💻
